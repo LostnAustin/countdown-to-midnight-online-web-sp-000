@@ -12,7 +12,7 @@ end
 
 
 def countdown_with_sleep
-  sleep (5)
+  sleep ()
 return sleep
 
 end

@@ -7,6 +7,6 @@ integer = 10
     integer -= 1
   else integer == 0
     puts  "HAPPY NEW YEAR!"
-
+    integer
 end
 end

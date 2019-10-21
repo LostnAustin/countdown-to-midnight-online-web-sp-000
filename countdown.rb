@@ -11,7 +11,7 @@ end
 end
 
 
-def countdown_with_sleep
+def countdown_with_sleep(seconds)
   sleep (5.seconds)
 
 

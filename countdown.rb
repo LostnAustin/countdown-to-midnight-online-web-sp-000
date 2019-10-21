@@ -12,7 +12,7 @@ end
 
 
 
-def countdown_with_sleep
+def countdown_with_sleep(integer)
   integer = 10
   while integer > 0
     sleep(5)

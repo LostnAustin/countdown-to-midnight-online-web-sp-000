@@ -11,8 +11,13 @@ end
 end
 
 
-def countdown_with_sleep(5)
-  sleep(5)
+def countdown_with_sleep
+  integer = 10
+  while integer > 0
+    puts "#{integer} SECOND(S)!"
 
-
+    integer -= 1
+    sleep(5)
+  end
+     "HAPPY NEW YEAR!"
 end

@@ -5,9 +5,10 @@ integer = 10
   while integer > 0
     puts "#{integer} SECOND(S)!"
     integer -= 1
-  else return
+
+  integer
      "HAPPY NEW YEAR!"
-    integer
+  
 
 end
 end
